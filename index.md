@@ -1,3 +1,4 @@
+# Words
 # Hannah Zwink
 
 ## SUMMARY
@@ -6,13 +7,11 @@ Analytically driven and customer-focused professional pursuing a Master of Scien
 
 ## EDUCATION
 
-### California State University San Marcos - Business Administration
-
+**California State University San Marcos - Business Administration**
 Concentration in Business Analytics  
 *Graduated: 2026*
 
-### Edmonds College - Associate of Arts Degree
-
+**Edmonds College - Associate of Arts Degree**
 *Graduated: 2019*
 
 ## TECHNICAL SKILLS
