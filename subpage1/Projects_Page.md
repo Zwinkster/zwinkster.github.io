@@ -11,7 +11,7 @@ To complete this portfolio you first have to open a new repository on github.com
 Click [here](https://github.com/pages-themes/minimal) to download the `minimal` theme, then follow along to add it to your website.
 1. While viewing the `minimal` theme repository, click the green **Code** dropdown.
 
-![Click Code](code.png)
+![Click Code](/assets/img/code.png)
 
 2. Click <u>Download ZIP</u>.
 3. Find your repository folder on your computer, if there isn't one follow these steps [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
@@ -23,10 +23,11 @@ In your repository you'll find an `index.md` markdown file that is the basis of 
 ### Step 4: Final Touches
 There are a few things you can change to make this website more your own. To add a picture to your front page all you need to do is rename your file to logo.png. Once you have the file named, drag it into the assets folder of your repository, then replace the image in the img file. This will insert the picture top left of your main page. If you want to add pictures into your markdown, you can use this forum [here](https://stackoverflow.com/questions/41604263/how-do-i-display-a-local-image-in-markdown).
 ### References
-|Use| References |
-|[Creating Subpages](https://stackoverflow.com/questions/2822089/how-to-link-to-part-of-the-same-document-in-markdown)| R |
-|[Markdown Guide](https://www.markdownguide.org/cheat-sheet/) | R |
-|[Commit to Repository](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)| R |
-|[Minimal Theme](https://github.com/pages-themes/minimal) | R |
-|[Cloning Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) | R |
-|[Display Image in Markdown](https://stackoverflow.com/questions/41604263/how-do-i-display-a-local-image-in-markdown) | R |
+| Resource | References |
+| --- | --- |
+| [Creating Subpages](https://stackoverflow.com/questions/2822089/how-to-link-to-part-of-the-same-document-in-markdown) | “How to Link to Part of the Same Document in Markdown.” *Stack Overflow*, https://stackoverflow.com/questions/2822089/how-to-link-to-part-of-the-same-document-in-markdown. Accessed 30 Oct. 2026. |
+| [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) | “Markdown Cheat Sheet.” *Markdown Guide*, https://www.markdownguide.org/cheat-sheet/. Accessed 30 Oct. 2026. |
+| [Commit to Repository](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository) | “Pushing Commits to a Remote Repository.” *GitHub Docs*, GitHub, https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository. Accessed 30 Oct. 2026. |
+| [Minimal Theme](https://github.com/pages-themes/minimal) | “Minimal.” *GitHub*, GitHub, https://github.com/pages-themes/minimal. Accessed 30 Oct. 2026. |
+| [Cloning Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) | “Cloning a Repository.” *GitHub Docs*, GitHub, https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository. Accessed 30 Oct. 2026. |
+| [Display Image in Markdown](https://stackoverflow.com/questions/41604263/how-do-i-display-a-local-image-in-markdown) | “How Do I Display a Local Image in Markdown?” *Stack Overflow*, https://stackoverflow.com/questions/41604263/how-do-i-display-a-local-image-in-markdown. Accessed 30 Oct. 2026. |
