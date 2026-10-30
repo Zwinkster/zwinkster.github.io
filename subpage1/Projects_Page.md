@@ -1,12 +1,16 @@
 # Projects
+
 ## Sections
 - [Creating This E-Portfolio](#creating-this-e-portfolio)
 
 ## Creating This E-Portfolio
+
 ### Introduction
 This project was designed to teach us the process of creating a professional, customizable website while also being a place to showcase our knowledge, skills, and accomplishments. For this e-portfolio we used GitHub Pages to host the website and the `minimal` theme created by *OrderedList* as the foundation for its design.
+
 ### Step 1: Setting Up the Website
-To complete this portfolio you first have to open a new repository on GitHub.com. To ensure that you created a static site within GitHub pages, use the formatting of `<your_username>.github.io` in the repository name and change the license to MIT if it fits. This sets up the repository, or place to store your files needed to host your website. 
+To complete this portfolio you first have to open a new repository on GitHub.com. To ensure that you created a static site within GitHub pages, use the formatting of `<your_username>.github.io` in the repository name and change the license to MIT if it fits. This sets up the repository, or place to store your files needed to host your website.
+
 ### Step 2: Setting a Theme
 Click [here](https://github.com/pages-themes/minimal) to download the `minimal` theme, then follow along to add it to your website.
 1. While viewing the `minimal` theme repository, click the green **Code** dropdown.
@@ -19,7 +23,8 @@ Click [here](https://github.com/pages-themes/minimal) to download the `minimal` 
 5. Finally, make a commit by using the command `git push` in your computers command prompt. Instructions can be found [here](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository).
 
 ### Step 3: Editing a Markdown File
-In your repository you'll find an `index.md` Markdown file that is the basis of your website. Make whatever edits you want to the file using any application that can edit Markdown, like VSCode. You can use the [markdown guide](https://www.markdownguide.org/cheat-sheet/) for help with formatting. There is also a `README.md` file in your repository you can edit for GitHub even if it does not appear on your website. If you commit any changes, make sure to wait a few minutes before checking your website for the updates.
+In your repository you'll find an `index.md` Markdown file that is the basis of your website. Make whatever edits you want to the file using any application that can edit Markdown, like VSCode. You can use the [markdown guide](https://www.markdownguide.org/cheat-sheet/) for help with formatting. For this project we used this file to showcase our resume. There is also a `README.md` file in your repository you can edit for GitHub even if it does not appear on your website. If you commit any changes, make sure to wait a few minutes before checking your website for the updates.
+
 ### Step 4: Final Touches
 There are a few things you can change to make this website more your own. To add a picture to your front page all you need to do is rename your image file to logo.png. Once you have the file named, drag it into the assets folder of your repository, then replace the image in the img file. This will insert the picture top left of your main page. If you want to add pictures into your Markdown, you can use this forum [here](https://stackoverflow.com/questions/41604263/how-do-i-display-a-local-image-in-markdown).
 To edit the configuration of the minimal theme you can edit the `_config.yml` file.
@@ -28,6 +33,13 @@ To edit the configuration of the minimal theme you can edit the `_config.yml` fi
 
 In this file you can edit everything displayed on your website that is not contained within the Markdown. Here you will change your title and description, and decide whether to keep a download link for your repository on your website by making `show_downloads:` true or false. 
 You can also add multiple pages to your website using subpages. To create a subpage make a new file in your repository folder. Within that file you can insert a Markdown with a title pertaining to your subpage. To insert that subpage on your website, add a code like this: `[Click Here](subpage_folder/Markdown_Name.md#Header_in_New_Markdown)` to your `index.md`.
+
+## Results
+
+![Screenshot](/assets/img/screenshot.png)
+
+At the end you will have a professional looking website that you can use to showcase your skills.
+Access my portfolio by clicking [here](../index.md#resume).
 
 ### References
 
