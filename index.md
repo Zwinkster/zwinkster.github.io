@@ -48,3 +48,6 @@ Concentration in Business Analytics
 - **Pacific Beach Coalition**
   Participated in community cleanup projects to maintain local beaches and parks, 2021
 
+## VIEW PROJECTS
+[Click Here](subpage1/Projects_Page.md#projects)
+
