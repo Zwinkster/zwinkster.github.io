@@ -36,7 +36,7 @@ You can also add multiple pages to your website using subpages. To create a subp
 
 ## Results
 
-![Screenshot](/assets/img/screenshot.png)
+![Screenshot](/assets/img/portfolio.png)
 
 At the end you will have a professional looking website that you can use to showcase your skills.
 Access my portfolio by clicking [here](../index.md#resume).
