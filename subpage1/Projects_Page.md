@@ -10,7 +10,9 @@ To complete this portfolio you first have to open a new repository on github.com
 ### Step 2: Setting a Theme
 Click [here](https://github.com/pages-themes/minimal) to download the `minimal` theme, then follow along to add it to your website.
 1. While viewing the `minimal` theme repository, click the green **Code** dropdown.
-![Click Code](./code.png)
+
+![Click Code](code.png)
+
 2. Click <u>Download ZIP</u>.
 3. Find your repository folder on your computer, if there isn't one follow these steps [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 4. Extract the `minimal` theme folder into your repository folder.
@@ -21,9 +23,10 @@ In your repository you'll find an `index.md` markdown file that is the basis of 
 ### Step 4: Final Touches
 There are a few things you can change to make this website more your own. To add a picture to your front page all you need to do is rename your file to logo.png. Once you have the file named, drag it into the assets folder of your repository, then replace the image in the img file. This will insert the picture top left of your main page. If you want to add pictures into your markdown, you can use this forum [here](https://stackoverflow.com/questions/41604263/how-do-i-display-a-local-image-in-markdown).
 ### References
-- https://stackoverflow.com/questions/2822089/how-to-link-to-part-of-the-same-document-in-markdown
-- https://www.markdownguide.org/cheat-sheet/
-- https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository
-- https://github.com/pages-themes/minimal
-- https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-- https://stackoverflow.com/questions/41604263/how-do-i-display-a-local-image-in-markdown
+|Use| References |
+|[Creating Subpages](https://stackoverflow.com/questions/2822089/how-to-link-to-part-of-the-same-document-in-markdown)| R |
+|[Markdown Guide](https://www.markdownguide.org/cheat-sheet/) | R |
+|[Commit to Repository](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)| R |
+|[Minimal Theme](https://github.com/pages-themes/minimal) | R |
+|[Cloning Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) | R |
+|[Display Image in Markdown](https://stackoverflow.com/questions/41604263/how-do-i-display-a-local-image-in-markdown) | R |
